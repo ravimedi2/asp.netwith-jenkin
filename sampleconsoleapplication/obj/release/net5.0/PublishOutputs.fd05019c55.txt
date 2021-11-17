@@ -1,0 +1,12 @@
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\sampleconsoleapplication.exe
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\sampleconsoleapplication.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\sampleconsoleapplication.deps.json
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\sampleconsoleapplication.runtimeconfig.json
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\sampleconsoleapplication.pdb
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\AWSSDK.Core.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\AWSSDK.S3.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\Azure.Core.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\Azure.Storage.Blobs.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\Azure.Storage.Common.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dotnetworkspace\sampleconsoleapplication\bin\Release\net5.0\publish\System.Memory.Data.dll

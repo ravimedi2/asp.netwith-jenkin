@@ -1,0 +1,11 @@
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\sampleAPI.exe
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\appsettings.Development.json
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\appsettings.json
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\sampleAPI.dll
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\sampleAPI.deps.json
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\sampleAPI.runtimeconfig.json
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\sampleAPI.pdb
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dotnetworkspace\sampleAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
